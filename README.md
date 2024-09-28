@@ -1,4 +1,5 @@
 ## Hi there 👋
+Hi! I'm Gabriel! I'm software engineer based in Southern California, specializing in fullstack and embedded software development. 
 
 <!--
 **ggarcia453/ggarcia453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
