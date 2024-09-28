@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on multiple projects including [Rusty Headphones](https://github.com/ggarcia453/RustyHeadphones) and [Maze Videogame](https://github.com/ggarcia453/Videogame)
 
-- 🌱 I’m currently learning **Golang, C#/.NET**
+- 🌱 I’m currently learning **C#/.NET**
 
 - 📫 How to reach me **gg311137@gmail.com**
 
