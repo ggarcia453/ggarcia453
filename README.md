@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Garcia</h1>
 <h3 align="center">I'm a software engineer based in Southern California, specializing in fullstack and embedded software development.</h3>
 
-- 🔭 I’m currently working on multiple projects including [Rusty Headphones](https://github.com/ggarcia453/RustyHeadphones) and [Maze Videogame](https://github.com/ggarcia453/Videogame)
+- 🔭 I’m currently working on my [Maze Videogame](https://github.com/ggarcia453/Videogame) project.
 
 - 🌱 I’m currently learning **C#/.NET**
 
