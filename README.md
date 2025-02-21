@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Garcia</h1>
 <h3 align="center">I'm a software engineer based in Southern California, specializing in fullstack and embedded software development.</h3>
 
-- 🔭 I’m currently working on improving many of my projects. These include my [**Baseball Statistics Predictor**](https://github.com/ggarcia453/Baseball-Stats-Predictor), a Website for the Mobile Game [**Dragon Ball Z Dokkan Battle**](https://github.com/ggarcia453/DokkanBattleWebsite) and [**Rusty Headphones**](https://github.com/ggarcia453/RustyHeadphones). 
+- 🔭 I’m currently working on improving many of my projects. These include my [**Baseball Statistics Predictor**](https://github.com/ggarcia453/Baseball-Stats-Predictor) and a Website for the Mobile Game [**Dragon Ball Z Dokkan Battle**](https://github.com/ggarcia453/DokkanBattleWebsite). 
 
 - 🌱 I’m currently learning **C#/.NET**
 
